@@ -2,6 +2,10 @@
 
 본래의 게시판기능과 자주사용하는 웹사이트의 기능들을 조금씩 붙여서 넣어서 프로젝트를 만듦.
 
+서비스 주소 : https://gtj-portfolio-board.firebaseapp.com/
+
+(※ 반응형웹을 구현한것이 아니라 24인치모니터 기준 풀스크린으로 보시는것을 권장드립니다.)
+
 기술스택
 
 Front-End : Html,Css,React
